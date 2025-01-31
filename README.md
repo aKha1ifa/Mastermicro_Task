@@ -38,7 +38,7 @@ The Equation Solver Application is a powerful tool designed to solve various typ
 - The plot shows the two functions intersecting at one point.
 - The intersection point is annotated with its coordinates.
 
-![One Intersection Point](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.13.32%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ7F3OBUIGOD67M32J6Z45D5BQ)  <!-- Update with actual image path -->
+![One Intersection Point](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.13.32%E2%80%AFPM.png)  <!-- Update with actual image path -->
 
 ### 1.2 Multiple Intersection Points
 
@@ -47,7 +47,7 @@ The Equation Solver Application is a powerful tool designed to solve various typ
 - The plot shows the two functions intersecting at multiple points.
 - Each intersection point is annotated with its coordinates.
 
-![Multiple Intersection Points](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.15.09%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ6Y5IH7MD5ZFQW623YZ45D7QA)  <!-- Update with actual image path -->
+![Multiple Intersection Points](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.15.09%E2%80%AFPM.png)  <!-- Update with actual image path -->
 
 ## Wrong Examples
 
