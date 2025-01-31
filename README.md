@@ -41,15 +41,13 @@ The Equation Solver Application is a powerful tool designed to solve various typ
 ![One Intersection Point](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.13.32%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ7F3OBUIGOD67M32J6Z45D5BQ)  <!-- Update with actual image path -->
 
 ### 1.2 Multiple Intersection Points
-**Input:**
-- \( f_1(x): \sin(x) \)
-- \( f_2(x): 0.5 \)
+
 
 **Output:**
 - The plot shows the two functions intersecting at multiple points.
 - Each intersection point is annotated with its coordinates.
 
-![Multiple Intersection Points](path/to/multiple_intersection_points_screenshot.png)  <!-- Update with actual image path -->
+![Multiple Intersection Points](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.15.09%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ6Y5IH7MD5ZFQW623YZ45D7QA)  <!-- Update with actual image path -->
 
 ## Wrong Examples
 
