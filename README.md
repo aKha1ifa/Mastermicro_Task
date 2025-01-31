@@ -1,5 +1,4 @@
 # Mastermicro_Task
-# Master Equation Solver Application
 
 
 
