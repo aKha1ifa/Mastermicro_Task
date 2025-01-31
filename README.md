@@ -1,98 +1,82 @@
 # Mastermicro_Task
-Function Plotter Application
-This is a Python-based application that allows users to input two mathematical functions of x, solves for their intersection points, and plots the functions along with the intersection points. The application is built using PySide2 for the GUI and matplotlib for plotting.
+# Master Equation Solver Application
 
-Features
-Input two functions of x (e.g., 3*x + 2, x^2 - 4).
+## Quick Start
 
-Plot the functions and highlight their intersection points.
+1. Download the .zip file from the [Releases](https://github.com/seifalrahman/MasterMicro_Python_Task/releases) page.
+2. Unzip the folder.
+3. Run the .exe file to launch the application.
 
-Annotate the intersection points with their coordinates.
+## Overview
 
-Handle invalid inputs and display appropriate error messages.
+The Equation Solver Application is a powerful tool designed to solve various types of mathematical equations. Whether you're dealing with linear equations, quadratic equations, or systems of equations, this application provides an intuitive interface and accurate solutions.
 
-Installation
-Prerequisites:
+## Features
 
-Python 3.x
+- Get solution points of two single-variable equations.
+- User-Friendly Interface: Simple and intuitive interface for easy input and output.
+- The Info button displays the differentiated and integrated equations.
 
-Required libraries: PySide2, numpy, matplotlib
 
-Install Dependencies:
 
-bash
-Copy
-pip install PySide2 numpy matplotlib
-Run the Application:
+## Technologies Used
 
-bash
-Copy
-python function_plotter.py
-Working Examples
-1.1 One Intersection Point
-Input:
+- **Programming Language:** Python
 
-f1(x): 3*x + 2
+### Libraries:
+- matplotlib
+- numpy
+- PySide2
+- **Testing:** Pytest, Pytest-qt
 
-f2(x): x^2 - 4
+## Supported Operations
 
-Output:
+- Operators: `+`, `-`, `/`, `*`, `^`, `log10()`, `sqrt()`.
+- Note: You can write logarithmic operations in two ways: `log10(x)` and `log(x, 10)`.
 
-The plot shows the two functions intersecting at one point.
+## Working Examples
 
-The intersection point is annotated with its coordinates.
+### 1.1 One Intersection Point
+**Input:**
+- \( f_1(x): 3*x + 2 \)
+- \( f_2(x): x^2 - 4 \)
 
-One Intersection Point
+**Output:**
+- The plot shows the two functions intersecting at one point.
+- The intersection point is annotated with its coordinates.
 
-1.2 Multiple Intersection Points
-Input:
+![One Intersection Point](path/to/one_intersection_point_screenshot.png)  <!-- Update with actual image path -->
 
-f1(x): sin(x)
+### 1.2 Multiple Intersection Points
+**Input:**
+- \( f_1(x): \sin(x) \)
+- \( f_2(x): 0.5 \)
 
-f2(x): 0.5
+**Output:**
+- The plot shows the two functions intersecting at multiple points.
+- Each intersection point is annotated with its coordinates.
 
-Output:
+![Multiple Intersection Points](path/to/multiple_intersection_points_screenshot.png)  <!-- Update with actual image path -->
 
-The plot shows the two functions intersecting at multiple points.
+## Wrong Examples
 
-Each intersection point is annotated with its coordinates.
+### 2.1 Empty Input
+**Input:** Leave one or both input fields empty.
 
-Multiple Intersection Points
+**Output:** An error message is displayed: 
+![Empty Input](path/to/empty_input_screenshot.png)  <!-- Update with actual image path -->
 
-Error Handling Examples
-2.1 Empty Input
-Input:
+### 2.2 Invalid Character Input
+**Input:**
+- \( f_1(x): 3*x + 2 \)
+- \( f_2(x): x^2 - 4 + @ \)
 
-Leave one or both input fields empty.
+**Output:** An error message is displayed: 
+![Invalid Character](path/to/invalid_character_screenshot.png)  <!-- Update with actual image path -->
 
-Output:
+### 2.3 Wrong Equation Input
+**Input:**
+- \( f_1(x): 3*x + 2 \)
+- \( f_2(x): x^2 - 4 + \log(x) \) (invalid for \( x \leq 0 \))
 
-An error message is displayed: "Invalid function input: Empty input."
-
-Empty Input
-
-2.2 Invalid Character
-Input:
-
-f1(x): 3*x + 2
-
-f2(x): x^2 - 4 + @
-
-Output:
-
-An error message is displayed: "Invalid function input: Invalid characters in function."
-
-Invalid Character
-
-2.3 Wrong Equation
-Input:
-
-f1(x): 3*x + 2
-
-f2(x): x^2 - 4 + log(x) (invalid for x <= 0)
-
-Output:
-
-An error message is displayed: "An unexpected error occurred: math domain error."
-
-Wrong Equation
+**Output:** An error message is displayed: 
