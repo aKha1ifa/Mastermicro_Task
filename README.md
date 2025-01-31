@@ -32,8 +32,7 @@ The executable is included in as main.zip .
 ## Supported Operations
 
 - Operators: `+`, `-`, `/`, `*`, `^`, `log10()`, `sqrt()`.
-- Note: You can write logarithmic operations in two ways: `log10(x)` and `log(x, 10)`.
-
+  
 ## Working Examples
 
 ### 1.1 One Intersection Point
