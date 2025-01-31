@@ -55,19 +55,21 @@ The Equation Solver Application is a powerful tool designed to solve various typ
 **Input:** Leave one or both input fields empty.
 
 **Output:** An error message is displayed: 
-![Empty Input](path/to/empty_input_screenshot.png)  <!-- Update with actual image path -->
+![Empty Input](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.16.01%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ6NLFZDQF4T2H6VEJWZ45EBUQ)  <!-- Update with actual image path -->
 
 ### 2.2 Invalid Character Input
-**Input:**
-- \( f_1(x): 3*x + 2 \)
-- \( f_2(x): x^2 - 4 + @ \)
+**Input:** NOT X
 
 **Output:** An error message is displayed: 
-![Invalid Character](path/to/invalid_character_screenshot.png)  <!-- Update with actual image path -->
+![Invalid Character](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.16.27%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ7UAHLGJTC6IRLWPWWZ45ECBQ)  <!-- Update with actual image path -->
 
 ### 2.3 Wrong Equation Input
-**Input:**
-- \( f_1(x): 3*x + 2 \)
-- \( f_2(x): x^2 - 4 + \log(x) \) (invalid for \( x \leq 0 \))
 
 **Output:** An error message is displayed: 
+![wrong Equation](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.15.34%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ7TV6USEOEGFF6IKASZ45EALQ)  <!-- Update with actual image path -->
+
+## Passed tests
+![TESTS](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.15.34%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ7TV6USEOEGFF6IKASZ45EALQ)  <!-- Update with actual image path -->
+
+
+
