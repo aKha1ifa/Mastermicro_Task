@@ -14,7 +14,6 @@ The executable is included in as main.zip .
 
 - Get solution points of two single-variable equations.
 - User-Friendly Interface: Simple and intuitive interface for easy input and output.
-- The Info button displays the differentiated and integrated equations.
 
 
 
