@@ -38,7 +38,7 @@ The Equation Solver Application is a powerful tool designed to solve various typ
 - The plot shows the two functions intersecting at one point.
 - The intersection point is annotated with its coordinates.
 
-![One Intersection Point](at)  <!-- Update with actual image path -->
+![One Intersection Point](Screenshot%202025-01-31%20at%208.13.32%20PM.png)  <!-- Update with actual image path -->
 
 ### 1.2 Multiple Intersection Points
 **Input:**
