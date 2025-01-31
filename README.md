@@ -7,6 +7,10 @@
 
 The Equation Solver Application is a powerful tool designed to solve various types of mathematical equations. Whether you're dealing with linear equations, quadratic equations, or systems of equations, this application provides an intuitive interface and accurate solutions.
 
+## Executable
+
+The executable is included in as main.zip .
+
 ## Features
 
 - Get solution points of two single-variable equations.
