@@ -69,7 +69,7 @@ The Equation Solver Application is a powerful tool designed to solve various typ
 ![wrong Equation](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.15.34%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ7TV6USEOEGFF6IKASZ45EALQ)  <!-- Update with actual image path -->
 
 ## Passed tests
-![TESTS](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%208.15.34%E2%80%AFPM.png?token=GHSAT0AAAAAAC56YEQ7TV6USEOEGFF6IKASZ45EALQ)  <!-- Update with actual image path -->
+![TESTS](https://raw.githubusercontent.com/aKha1ifa/Mastermicro_Task/refs/heads/main/Screenshot%202025-01-31%20at%207.53.20%E2%80%AFPM.png)  <!-- Update with actual image path -->
 
 
 
