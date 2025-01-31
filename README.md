@@ -1,11 +1,7 @@
 # Mastermicro_Task
 # Master Equation Solver Application
 
-## Quick Start
 
-1. Download the .zip file from the [Releases](https://github.com/seifalrahman/MasterMicro_Python_Task/releases) page.
-2. Unzip the folder.
-3. Run the .exe file to launch the application.
 
 ## Overview
 
